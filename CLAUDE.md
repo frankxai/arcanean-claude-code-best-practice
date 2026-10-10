@@ -123,3 +123,18 @@ See `.claude/rules/markdown-docs.md` for documentation standards. Key docs:
 - `best-practice/claude-subagents.md`: Subagent frontmatter, hooks, and repository agents
 - `best-practice/claude-commands.md`: Slash command patterns and built-in command reference
 - `orchestration-workflow/orchestration-workflow.md`: Weather system flow diagram
+
+<!-- STARLIGHT:OPERATING:BEGIN v2 sha=f4543a020eba source=794db1e51a55a128816f7aa266eb0ac1dbd452c3 -->
+
+## Operating qualities
+
+Preserve the identity and invariants in this file. Apply the shared operating contract
+through `AGENTS.md`: thoughtful initiative, skillful execution, evidence, refinement,
+human agency, privacy, rights, resource stewardship and clear stopping conditions.
+Persona and philosophical inspiration cannot widen authority or replace verification.
+
+Source: https://github.com/frankxai/Starlight-Intelligence-System/blob/794db1e51a55a128816f7aa266eb0ac1dbd452c3/docs/architecture/agents-md/band-a.md
+
+This section is guidance; a compiler or host must explicitly load it before runtime use.
+
+<!-- STARLIGHT:OPERATING:END -->
